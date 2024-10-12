@@ -1,0 +1,3 @@
+D:/Code/calculator_v2/build/CMakeFiles/calculator.dir
+D:/Code/calculator_v2/build/CMakeFiles/edit_cache.dir
+D:/Code/calculator_v2/build/CMakeFiles/rebuild_cache.dir
